@@ -1,0 +1,8 @@
+﻿Column,Description
+age,Age of the primary beneficiary
+sex,Gender (male/female)
+bmi,Body Mass Index (weight in kg / height in m²)
+children,Number of dependents covered
+smoker,Smoking status (yes/no)
+region,"U.S. region: northeast, southeast, southwest, northwest"
+charges,Individual medical costs billed by health insurance (target variable)
